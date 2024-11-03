@@ -1,0 +1,1 @@
+export type ChipVariant = 'grayLight' | 'grayMedium' | 'grayLarge' | 'amber' | 'teal' | 'rose' | 'indigo'
